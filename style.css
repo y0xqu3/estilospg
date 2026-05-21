@@ -53,6 +53,7 @@ body {
     color: #fff;
     text-align: center;
     font-weight: 800;
+    font-size: 28px;
     text-transform: uppercase;
     margin-top: 25px;
     margin-bottom: 25px;
@@ -63,17 +64,43 @@ body {
     text-align: center;
     font-weight: 600;
     margin: 15px 0 15px 0;
+    font-size: 26px;
 }
 
-h3,
-h4,
-h5,
-h6,
+h3{
+    font-size: 24px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+h4{
+    font-size: 22px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+h5{
+    font-size: 20px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+h6{
+    font-size: 18px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
 p,
 span {
     color: #fff;
     margin-top: 25px;
     margin-bottom: 25px;
+    font-weight: bold;
+    font-size: 16px;
+}
+p a {
+    font-size: 16px;
 }
 
 a {
