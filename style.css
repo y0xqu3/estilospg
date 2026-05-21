@@ -46,8 +46,11 @@ body {
 
 /* TEXTOS */
 .cuerpo {
-    margin: 20px;
-    width: 80%;
+    align-content: center;
+    max-width: 80%;
+    margin-top: 20px;
+    justify-content: center;
+    margin-left: 3em;
 }
 
 .titulo h1 {
@@ -69,11 +72,11 @@ body {
 }
 
 h3{
+    text-align: center;
     font-size: 24px;
     color: #fff;
     margin-top: 25px;
     margin-bottom: 25px;
-    text-align: center;
 }
 h4{
     font-size: 22px;
